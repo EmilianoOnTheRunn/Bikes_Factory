@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MyBikesFactory.Business.MountainBike" Collapsed="true">
+    <Position X="3" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAEAAgAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>MountainBike.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyBikesFactory.Business.Bike" Collapsed="true">
+    <Position X="5.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAABEAIAEAEAghAIAAAAAAAAIAAAAgAgAAAAAA=</HashCode>
+      <FileName>Bike.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="MyBikesFactory.Business.RoadBike" Collapsed="true">
+    <Position X="5.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAEAAgAAAAAAAAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>RoadBike.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyBikesFactory.Business.User" Collapsed="true">
+    <Position X="9.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAEAAAAAAAQgEAAAAAAAAAIACAEIAAAAAAAA=</HashCode>
+      <FileName>User.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="MyBikesFactory.Business.Validator" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAAEAAAAQAAAAAAAABAAAAAAAAACA=</HashCode>
+      <FileName>Validator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="MyBikesFactory.Business.Interfaces.IValidatable" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAgAAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IValidatable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="MyBikesFactory.Business.Enums.EColor" Collapsed="true">
+    <Position X="8" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAGAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAABAAACA=</HashCode>
+      <FileName>Enums\EColor.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="MyBikesFactory.Business.Enums.ESuspension" Collapsed="true">
+    <Position X="9.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAAAAgAAAgAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>Enums\ESuspension.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="MyBikesFactory.Business.Enums.ETireType" Collapsed="true">
+    <Position X="11.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAEAAAAACA=</HashCode>
+      <FileName>Enums\ETireType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

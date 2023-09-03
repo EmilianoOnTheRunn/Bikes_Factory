@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfBike xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Bike xsi:type="MountainBike">
+    <Id>1234</Id>
+    <Model>ruizz</Model>
+    <ManufacturingYear>2000</ManufacturingYear>
+    <Color>Blue</Color>
+    <InvalidMessage />
+    <SuspensionType>Rear</SuspensionType>
+  </Bike>
+</ArrayOfBike>
